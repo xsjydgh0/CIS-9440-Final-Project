@@ -102,6 +102,9 @@ Dashboard #2:
 
 ### Deployment
 
-The project was deployed on Tableau Public: (link here)
+The project was deployed on Tableau Public: 
+
+https://public.tableau.com/profile/yan.sun2159#!/
+
 CIS9440_Project_README.md
 Displaying CIS9440_Project_README.md.
