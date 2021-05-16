@@ -99,6 +99,15 @@ Dashboard #2:
 
 <img width="802" alt="Dashboard 2" src="https://user-images.githubusercontent.com/84057952/118374637-4c4b0a80-b58b-11eb-92be-ed7879e3fa72.png">
 
+**Limitation**
+
+Due to the mismatched time scope of our datasets:  the Netflix revenue and subscription are only released quarterly (pretty small dataset) which have a few overlaps with covid 19 cases. We try to get Netflix stock price and Trend (popularity) starting from 2016 to observe the growth condition of Netflix before covid appears and make a comparison between pre covid and in the covid situations. 
+
+For the null value in our charts. We clean the data before we put the data on bigquery. However, due to the mismatch of time of different fact tables, when connecting them in the tableau, there exists some null values anyhow. 
+
+The covid is an emergency event, and we are still in the Covid-period. When analyzing the influence of Covid on the business conditions of Netflix, we have limited data source and relatively small time overlap between them. Hence, we focus on some abnormal changes for Netflix before and in Covid through charts, and then research their specific conditions from their financial reports or other public relations’ material in specific periods. 
+
+
 
 ### Deployment
 
