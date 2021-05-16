@@ -37,6 +37,12 @@ https://www.kaggle.com/pariaagharabi/netflix2020?select=NetflixsRevenue2018toQ2_
 2.COVID-19 Dataset: Number of confirmed, death, and recovered cases every day across globe
 https://www.kaggle.com/imdevskp/corona-virus-report?select=worldometer_data.csv
 
+3. Netflix trend (popularity) in different countries and regions (Source from Google trend)
+https://trends.google.com/trends/explore?q=netflix&geo=US
+
+4. Netflix stock price extract from Yahoo finance
+https://finance.yahoo.com/quote/NFLX/history?p=NFLX
+
 ### Business Requirements Definition
 
 List of Data Warehouse KPI's:
