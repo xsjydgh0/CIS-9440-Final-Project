@@ -1,0 +1,1045 @@
+﻿popularity,date_id,region_id,region_name
+27,20160425,100,Asia-Pacific
+27,20160502,100,Asia-Pacific
+26,20160509,100,Asia-Pacific
+27.5,20160516,100,Asia-Pacific
+26.5,20160523,100,Asia-Pacific
+29.5,20160530,100,Asia-Pacific
+28.5,20160606,100,Asia-Pacific
+30.5,20160613,100,Asia-Pacific
+31.5,20160620,100,Asia-Pacific
+30.5,20160627,100,Asia-Pacific
+30,20160704,100,Asia-Pacific
+25.5,20160711,100,Asia-Pacific
+28,20160718,100,Asia-Pacific
+25.5,20160725,100,Asia-Pacific
+29.5,20160801,100,Asia-Pacific
+25,20160808,100,Asia-Pacific
+25.5,20160815,100,Asia-Pacific
+26.5,20160822,100,Asia-Pacific
+27.5,20160829,100,Asia-Pacific
+28.5,20160905,100,Asia-Pacific
+28,20160912,100,Asia-Pacific
+32.5,20160919,100,Asia-Pacific
+34,20160926,100,Asia-Pacific
+32.5,20161003,100,Asia-Pacific
+28.5,20161010,100,Asia-Pacific
+28,20161017,100,Asia-Pacific
+27.5,20161024,100,Asia-Pacific
+30,20161031,100,Asia-Pacific
+27,20161107,100,Asia-Pacific
+30,20161114,100,Asia-Pacific
+30.5,20161121,100,Asia-Pacific
+32,20161128,100,Asia-Pacific
+31,20161205,100,Asia-Pacific
+33,20161212,100,Asia-Pacific
+36.5,20161219,100,Asia-Pacific
+41,20161226,100,Asia-Pacific
+39,20170102,100,Asia-Pacific
+37.5,20170109,100,Asia-Pacific
+37,20170116,100,Asia-Pacific
+36,20170123,100,Asia-Pacific
+33.5,20170130,100,Asia-Pacific
+32.5,20170206,100,Asia-Pacific
+31.5,20170213,100,Asia-Pacific
+32,20170220,100,Asia-Pacific
+30.5,20170227,100,Asia-Pacific
+31,20170306,100,Asia-Pacific
+32.5,20170313,100,Asia-Pacific
+34.5,20170320,100,Asia-Pacific
+35.5,20170327,100,Asia-Pacific
+33,20170403,100,Asia-Pacific
+38.5,20170410,100,Asia-Pacific
+40.5,20170417,100,Asia-Pacific
+37.5,20170424,100,Asia-Pacific
+35,20170501,100,Asia-Pacific
+32,20170508,100,Asia-Pacific
+32.5,20170515,100,Asia-Pacific
+34.5,20170522,100,Asia-Pacific
+35,20170529,100,Asia-Pacific
+36,20170605,100,Asia-Pacific
+37,20170612,100,Asia-Pacific
+34,20170619,100,Asia-Pacific
+39,20170626,100,Asia-Pacific
+37.5,20170703,100,Asia-Pacific
+36.5,20170710,100,Asia-Pacific
+35.5,20170717,100,Asia-Pacific
+34.5,20170724,100,Asia-Pacific
+34.5,20170731,100,Asia-Pacific
+35.5,20170807,100,Asia-Pacific
+36,20170814,100,Asia-Pacific
+36.5,20170821,100,Asia-Pacific
+36.5,20170828,100,Asia-Pacific
+35.5,20170904,100,Asia-Pacific
+35,20170911,100,Asia-Pacific
+37,20170918,100,Asia-Pacific
+38,20170925,100,Asia-Pacific
+41,20171002,100,Asia-Pacific
+37,20171009,100,Asia-Pacific
+37.5,20171016,100,Asia-Pacific
+39,20171023,100,Asia-Pacific
+39,20171030,100,Asia-Pacific
+44.5,20171106,100,Asia-Pacific
+40,20171113,100,Asia-Pacific
+40,20171120,100,Asia-Pacific
+40,20171127,100,Asia-Pacific
+43,20171204,100,Asia-Pacific
+43.5,20171211,100,Asia-Pacific
+45.5,20171218,100,Asia-Pacific
+55,20171225,100,Asia-Pacific
+53.5,20180101,100,Asia-Pacific
+51,20180108,100,Asia-Pacific
+51.5,20180115,100,Asia-Pacific
+48.5,20180122,100,Asia-Pacific
+43,20180129,100,Asia-Pacific
+42,20180205,100,Asia-Pacific
+41.5,20180212,100,Asia-Pacific
+47.5,20180219,100,Asia-Pacific
+42.5,20180226,100,Asia-Pacific
+45,20180305,100,Asia-Pacific
+44.5,20180312,100,Asia-Pacific
+43.5,20180319,100,Asia-Pacific
+46.5,20180326,100,Asia-Pacific
+49.5,20180402,100,Asia-Pacific
+45,20180409,100,Asia-Pacific
+49,20180416,100,Asia-Pacific
+45.5,20180423,100,Asia-Pacific
+49,20180430,100,Asia-Pacific
+46.5,20180507,100,Asia-Pacific
+44.5,20180514,100,Asia-Pacific
+47,20180521,100,Asia-Pacific
+45.5,20180528,100,Asia-Pacific
+42.5,20180604,100,Asia-Pacific
+45,20180611,100,Asia-Pacific
+42.5,20180618,100,Asia-Pacific
+47,20180625,100,Asia-Pacific
+48.5,20180702,100,Asia-Pacific
+46,20180709,100,Asia-Pacific
+45.5,20180716,100,Asia-Pacific
+44,20180723,100,Asia-Pacific
+47,20180730,100,Asia-Pacific
+46.5,20180806,100,Asia-Pacific
+44.5,20180813,100,Asia-Pacific
+45,20180820,100,Asia-Pacific
+48,20180827,100,Asia-Pacific
+46,20180903,100,Asia-Pacific
+42.5,20180910,100,Asia-Pacific
+44.5,20180917,100,Asia-Pacific
+50.5,20180924,100,Asia-Pacific
+48,20181001,100,Asia-Pacific
+48,20181008,100,Asia-Pacific
+47.5,20181015,100,Asia-Pacific
+46,20181022,100,Asia-Pacific
+49,20181029,100,Asia-Pacific
+46,20181105,100,Asia-Pacific
+46,20181112,100,Asia-Pacific
+48,20181119,100,Asia-Pacific
+44,20181126,100,Asia-Pacific
+46,20181203,100,Asia-Pacific
+50,20181210,100,Asia-Pacific
+51.5,20181217,100,Asia-Pacific
+62.5,20181224,100,Asia-Pacific
+68,20181231,100,Asia-Pacific
+60,20190107,100,Asia-Pacific
+59.5,20190114,100,Asia-Pacific
+55.5,20190121,100,Asia-Pacific
+55,20190128,100,Asia-Pacific
+46.5,20190204,100,Asia-Pacific
+47.5,20190211,100,Asia-Pacific
+47.5,20190218,100,Asia-Pacific
+46.5,20190225,100,Asia-Pacific
+41.5,20190304,100,Asia-Pacific
+44.5,20190311,100,Asia-Pacific
+46,20190318,100,Asia-Pacific
+47,20190325,100,Asia-Pacific
+46,20190401,100,Asia-Pacific
+48.5,20190408,100,Asia-Pacific
+51.5,20190415,100,Asia-Pacific
+51,20190422,100,Asia-Pacific
+48,20190429,100,Asia-Pacific
+45,20190506,100,Asia-Pacific
+47,20190513,100,Asia-Pacific
+50,20190520,100,Asia-Pacific
+51.5,20190527,100,Asia-Pacific
+48.5,20190603,100,Asia-Pacific
+48,20190610,100,Asia-Pacific
+47,20190617,100,Asia-Pacific
+50,20190624,100,Asia-Pacific
+51.5,20190701,100,Asia-Pacific
+51,20190708,100,Asia-Pacific
+50,20190715,100,Asia-Pacific
+46.5,20190722,100,Asia-Pacific
+44.5,20190729,100,Asia-Pacific
+44,20190805,100,Asia-Pacific
+48,20190812,100,Asia-Pacific
+48,20190819,100,Asia-Pacific
+49.5,20190826,100,Asia-Pacific
+47,20190902,100,Asia-Pacific
+44.5,20190909,100,Asia-Pacific
+51,20190916,100,Asia-Pacific
+48.5,20190923,100,Asia-Pacific
+51,20190930,100,Asia-Pacific
+52,20191007,100,Asia-Pacific
+47,20191014,100,Asia-Pacific
+46.5,20191021,100,Asia-Pacific
+46.5,20191028,100,Asia-Pacific
+50,20191104,100,Asia-Pacific
+48,20191111,100,Asia-Pacific
+48.5,20191118,100,Asia-Pacific
+42.5,20191125,100,Asia-Pacific
+45.5,20191202,100,Asia-Pacific
+53.5,20191209,100,Asia-Pacific
+54,20191216,100,Asia-Pacific
+64.5,20191223,100,Asia-Pacific
+81.5,20191230,100,Asia-Pacific
+64,20200106,100,Asia-Pacific
+56,20200113,100,Asia-Pacific
+55,20200120,100,Asia-Pacific
+53.5,20200127,100,Asia-Pacific
+54,20200203,100,Asia-Pacific
+54.5,20200210,100,Asia-Pacific
+48.5,20200217,100,Asia-Pacific
+54.5,20200224,100,Asia-Pacific
+52,20200302,100,Asia-Pacific
+55.5,20200309,100,Asia-Pacific
+59.5,20200316,100,Asia-Pacific
+73,20200323,100,Asia-Pacific
+80.5,20200330,100,Asia-Pacific
+87,20200406,100,Asia-Pacific
+91,20200413,100,Asia-Pacific
+94,20200420,100,Asia-Pacific
+91.5,20200427,100,Asia-Pacific
+89.5,20200504,100,Asia-Pacific
+74.5,20200511,100,Asia-Pacific
+75,20200518,100,Asia-Pacific
+68.5,20200525,100,Asia-Pacific
+68,20200601,100,Asia-Pacific
+63,20200608,100,Asia-Pacific
+62,20200615,100,Asia-Pacific
+66.5,20200622,100,Asia-Pacific
+67.5,20200629,100,Asia-Pacific
+65.5,20200706,100,Asia-Pacific
+67,20200713,100,Asia-Pacific
+64.5,20200720,100,Asia-Pacific
+66,20200727,100,Asia-Pacific
+64,20200803,100,Asia-Pacific
+67.5,20200810,100,Asia-Pacific
+64.5,20200817,100,Asia-Pacific
+61,20200824,100,Asia-Pacific
+58,20200831,100,Asia-Pacific
+65,20200907,100,Asia-Pacific
+67.5,20200914,100,Asia-Pacific
+67.5,20200921,100,Asia-Pacific
+60.5,20200928,100,Asia-Pacific
+62,20201005,100,Asia-Pacific
+57.5,20201012,100,Asia-Pacific
+56,20201019,100,Asia-Pacific
+57,20201026,100,Asia-Pacific
+54.5,20201102,100,Asia-Pacific
+54.5,20201109,100,Asia-Pacific
+57,20201116,100,Asia-Pacific
+57.5,20201123,100,Asia-Pacific
+59,20201130,100,Asia-Pacific
+63,20201207,100,Asia-Pacific
+65.5,20201214,100,Asia-Pacific
+69.5,20201221,100,Asia-Pacific
+88.5,20201228,100,Asia-Pacific
+75,20210104,100,Asia-Pacific
+73.5,20210111,100,Asia-Pacific
+75.5,20210118,100,Asia-Pacific
+75,20210125,100,Asia-Pacific
+76,20210201,100,Asia-Pacific
+63.5,20210208,100,Asia-Pacific
+65,20210215,100,Asia-Pacific
+67.5,20210222,100,Asia-Pacific
+61.5,20210301,100,Asia-Pacific
+63,20210308,100,Asia-Pacific
+60,20210315,100,Asia-Pacific
+57,20210322,100,Asia-Pacific
+64.5,20210329,100,Asia-Pacific
+65.5,20210405,100,Asia-Pacific
+58.5,20210412,100,Asia-Pacific
+67,20210419,100,Asia-Pacific
+18.5,20160425,101,"Europe, Middle East, and Africa"
+19,20160502,101,"Europe, Middle East, and Africa"
+17.5,20160509,101,"Europe, Middle East, and Africa"
+17,20160516,101,"Europe, Middle East, and Africa"
+16,20160523,101,"Europe, Middle East, and Africa"
+19,20160530,101,"Europe, Middle East, and Africa"
+16.5,20160606,101,"Europe, Middle East, and Africa"
+18.5,20160613,101,"Europe, Middle East, and Africa"
+18,20160620,101,"Europe, Middle East, and Africa"
+18,20160627,101,"Europe, Middle East, and Africa"
+18,20160704,101,"Europe, Middle East, and Africa"
+18.5,20160711,101,"Europe, Middle East, and Africa"
+18,20160718,101,"Europe, Middle East, and Africa"
+19,20160725,101,"Europe, Middle East, and Africa"
+19.5,20160801,101,"Europe, Middle East, and Africa"
+17.5,20160808,101,"Europe, Middle East, and Africa"
+17,20160815,101,"Europe, Middle East, and Africa"
+20.5,20160822,101,"Europe, Middle East, and Africa"
+21,20160829,101,"Europe, Middle East, and Africa"
+19.5,20160905,101,"Europe, Middle East, and Africa"
+18,20160912,101,"Europe, Middle East, and Africa"
+20,20160919,101,"Europe, Middle East, and Africa"
+22.5,20160926,101,"Europe, Middle East, and Africa"
+20.5,20161003,101,"Europe, Middle East, and Africa"
+19.5,20161010,101,"Europe, Middle East, and Africa"
+22.5,20161017,101,"Europe, Middle East, and Africa"
+20.5,20161024,101,"Europe, Middle East, and Africa"
+21.5,20161031,101,"Europe, Middle East, and Africa"
+20.5,20161107,101,"Europe, Middle East, and Africa"
+18.5,20161114,101,"Europe, Middle East, and Africa"
+20,20161121,101,"Europe, Middle East, and Africa"
+20,20161128,101,"Europe, Middle East, and Africa"
+20.5,20161205,101,"Europe, Middle East, and Africa"
+24,20161212,101,"Europe, Middle East, and Africa"
+23.5,20161219,101,"Europe, Middle East, and Africa"
+25,20161226,101,"Europe, Middle East, and Africa"
+26,20170102,101,"Europe, Middle East, and Africa"
+24,20170109,101,"Europe, Middle East, and Africa"
+23.5,20170116,101,"Europe, Middle East, and Africa"
+22,20170123,101,"Europe, Middle East, and Africa"
+21,20170130,101,"Europe, Middle East, and Africa"
+23.5,20170206,101,"Europe, Middle East, and Africa"
+23,20170213,101,"Europe, Middle East, and Africa"
+21,20170220,101,"Europe, Middle East, and Africa"
+20.5,20170227,101,"Europe, Middle East, and Africa"
+20,20170306,101,"Europe, Middle East, and Africa"
+20,20170313,101,"Europe, Middle East, and Africa"
+24.5,20170320,101,"Europe, Middle East, and Africa"
+22,20170327,101,"Europe, Middle East, and Africa"
+22.5,20170403,101,"Europe, Middle East, and Africa"
+25,20170410,101,"Europe, Middle East, and Africa"
+24.5,20170417,101,"Europe, Middle East, and Africa"
+21,20170424,101,"Europe, Middle East, and Africa"
+24,20170501,101,"Europe, Middle East, and Africa"
+22,20170508,101,"Europe, Middle East, and Africa"
+22,20170515,101,"Europe, Middle East, and Africa"
+18.5,20170522,101,"Europe, Middle East, and Africa"
+22.5,20170529,101,"Europe, Middle East, and Africa"
+20.5,20170605,101,"Europe, Middle East, and Africa"
+20.5,20170612,101,"Europe, Middle East, and Africa"
+20.5,20170619,101,"Europe, Middle East, and Africa"
+24,20170626,101,"Europe, Middle East, and Africa"
+21,20170703,101,"Europe, Middle East, and Africa"
+22.5,20170710,101,"Europe, Middle East, and Africa"
+26,20170717,101,"Europe, Middle East, and Africa"
+27.5,20170724,101,"Europe, Middle East, and Africa"
+26.5,20170731,101,"Europe, Middle East, and Africa"
+28.5,20170807,101,"Europe, Middle East, and Africa"
+26,20170814,101,"Europe, Middle East, and Africa"
+28,20170821,101,"Europe, Middle East, and Africa"
+27.5,20170828,101,"Europe, Middle East, and Africa"
+27.5,20170904,101,"Europe, Middle East, and Africa"
+24.5,20170911,101,"Europe, Middle East, and Africa"
+27,20170918,101,"Europe, Middle East, and Africa"
+26.5,20170925,101,"Europe, Middle East, and Africa"
+28.5,20171002,101,"Europe, Middle East, and Africa"
+27,20171009,101,"Europe, Middle East, and Africa"
+28,20171016,101,"Europe, Middle East, and Africa"
+29.5,20171023,101,"Europe, Middle East, and Africa"
+26.5,20171030,101,"Europe, Middle East, and Africa"
+30,20171106,101,"Europe, Middle East, and Africa"
+30,20171113,101,"Europe, Middle East, and Africa"
+30,20171120,101,"Europe, Middle East, and Africa"
+28.5,20171127,101,"Europe, Middle East, and Africa"
+30.5,20171204,101,"Europe, Middle East, and Africa"
+32,20171211,101,"Europe, Middle East, and Africa"
+36.5,20171218,101,"Europe, Middle East, and Africa"
+44.5,20171225,101,"Europe, Middle East, and Africa"
+40,20180101,101,"Europe, Middle East, and Africa"
+35.5,20180108,101,"Europe, Middle East, and Africa"
+35,20180115,101,"Europe, Middle East, and Africa"
+37,20180122,101,"Europe, Middle East, and Africa"
+33,20180129,101,"Europe, Middle East, and Africa"
+33,20180205,101,"Europe, Middle East, and Africa"
+34,20180212,101,"Europe, Middle East, and Africa"
+35,20180219,101,"Europe, Middle East, and Africa"
+35,20180226,101,"Europe, Middle East, and Africa"
+33,20180305,101,"Europe, Middle East, and Africa"
+35.5,20180312,101,"Europe, Middle East, and Africa"
+35,20180319,101,"Europe, Middle East, and Africa"
+38,20180326,101,"Europe, Middle East, and Africa"
+40,20180402,101,"Europe, Middle East, and Africa"
+33,20180409,101,"Europe, Middle East, and Africa"
+32.5,20180416,101,"Europe, Middle East, and Africa"
+32.5,20180423,101,"Europe, Middle East, and Africa"
+35,20180430,101,"Europe, Middle East, and Africa"
+34.5,20180507,101,"Europe, Middle East, and Africa"
+37.5,20180514,101,"Europe, Middle East, and Africa"
+35.5,20180521,101,"Europe, Middle East, and Africa"
+35.5,20180528,101,"Europe, Middle East, and Africa"
+32.5,20180604,101,"Europe, Middle East, and Africa"
+34.5,20180611,101,"Europe, Middle East, and Africa"
+32,20180618,101,"Europe, Middle East, and Africa"
+34,20180625,101,"Europe, Middle East, and Africa"
+31.5,20180702,101,"Europe, Middle East, and Africa"
+34.5,20180709,101,"Europe, Middle East, and Africa"
+37,20180716,101,"Europe, Middle East, and Africa"
+37,20180723,101,"Europe, Middle East, and Africa"
+37,20180730,101,"Europe, Middle East, and Africa"
+40,20180806,101,"Europe, Middle East, and Africa"
+39.5,20180813,101,"Europe, Middle East, and Africa"
+42,20180820,101,"Europe, Middle East, and Africa"
+41,20180827,101,"Europe, Middle East, and Africa"
+37,20180903,101,"Europe, Middle East, and Africa"
+38,20180910,101,"Europe, Middle East, and Africa"
+38,20180917,101,"Europe, Middle East, and Africa"
+40,20180924,101,"Europe, Middle East, and Africa"
+38.5,20181001,101,"Europe, Middle East, and Africa"
+39,20181008,101,"Europe, Middle East, and Africa"
+44,20181015,101,"Europe, Middle East, and Africa"
+42.5,20181022,101,"Europe, Middle East, and Africa"
+44,20181029,101,"Europe, Middle East, and Africa"
+42,20181105,101,"Europe, Middle East, and Africa"
+38.5,20181112,101,"Europe, Middle East, and Africa"
+38.5,20181119,101,"Europe, Middle East, and Africa"
+37,20181126,101,"Europe, Middle East, and Africa"
+39.5,20181203,101,"Europe, Middle East, and Africa"
+41,20181210,101,"Europe, Middle East, and Africa"
+44.5,20181217,101,"Europe, Middle East, and Africa"
+64.5,20181224,101,"Europe, Middle East, and Africa"
+62.5,20181231,101,"Europe, Middle East, and Africa"
+54.5,20190107,101,"Europe, Middle East, and Africa"
+54,20190114,101,"Europe, Middle East, and Africa"
+51.5,20190121,101,"Europe, Middle East, and Africa"
+49,20190128,101,"Europe, Middle East, and Africa"
+46.5,20190204,101,"Europe, Middle East, and Africa"
+44,20190211,101,"Europe, Middle East, and Africa"
+44.5,20190218,101,"Europe, Middle East, and Africa"
+42,20190225,101,"Europe, Middle East, and Africa"
+43,20190304,101,"Europe, Middle East, and Africa"
+48.5,20190311,101,"Europe, Middle East, and Africa"
+47.5,20190318,101,"Europe, Middle East, and Africa"
+44,20190325,101,"Europe, Middle East, and Africa"
+43.5,20190401,101,"Europe, Middle East, and Africa"
+42.5,20190408,101,"Europe, Middle East, and Africa"
+43,20190415,101,"Europe, Middle East, and Africa"
+47,20190422,101,"Europe, Middle East, and Africa"
+45,20190429,101,"Europe, Middle East, and Africa"
+45.5,20190506,101,"Europe, Middle East, and Africa"
+40,20190513,101,"Europe, Middle East, and Africa"
+39.5,20190520,101,"Europe, Middle East, and Africa"
+46,20190527,101,"Europe, Middle East, and Africa"
+44,20190603,101,"Europe, Middle East, and Africa"
+46,20190610,101,"Europe, Middle East, and Africa"
+46,20190617,101,"Europe, Middle East, and Africa"
+40,20190624,101,"Europe, Middle East, and Africa"
+43,20190701,101,"Europe, Middle East, and Africa"
+43.5,20190708,101,"Europe, Middle East, and Africa"
+45,20190715,101,"Europe, Middle East, and Africa"
+45,20190722,101,"Europe, Middle East, and Africa"
+44,20190729,101,"Europe, Middle East, and Africa"
+43.5,20190805,101,"Europe, Middle East, and Africa"
+44,20190812,101,"Europe, Middle East, and Africa"
+41.5,20190819,101,"Europe, Middle East, and Africa"
+46.5,20190826,101,"Europe, Middle East, and Africa"
+41,20190902,101,"Europe, Middle East, and Africa"
+41,20190909,101,"Europe, Middle East, and Africa"
+46,20190916,101,"Europe, Middle East, and Africa"
+50.5,20190923,101,"Europe, Middle East, and Africa"
+42.5,20190930,101,"Europe, Middle East, and Africa"
+41.5,20191007,101,"Europe, Middle East, and Africa"
+44,20191014,101,"Europe, Middle East, and Africa"
+46,20191021,101,"Europe, Middle East, and Africa"
+46,20191028,101,"Europe, Middle East, and Africa"
+44.5,20191104,101,"Europe, Middle East, and Africa"
+46,20191111,101,"Europe, Middle East, and Africa"
+44,20191118,101,"Europe, Middle East, and Africa"
+40,20191125,101,"Europe, Middle East, and Africa"
+43,20191202,101,"Europe, Middle East, and Africa"
+44,20191209,101,"Europe, Middle East, and Africa"
+54.5,20191216,101,"Europe, Middle East, and Africa"
+67,20191223,101,"Europe, Middle East, and Africa"
+67,20191230,101,"Europe, Middle East, and Africa"
+55.5,20200106,101,"Europe, Middle East, and Africa"
+50.5,20200113,101,"Europe, Middle East, and Africa"
+49.5,20200120,101,"Europe, Middle East, and Africa"
+46,20200127,101,"Europe, Middle East, and Africa"
+51.5,20200203,101,"Europe, Middle East, and Africa"
+50.5,20200210,101,"Europe, Middle East, and Africa"
+52,20200217,101,"Europe, Middle East, and Africa"
+48.5,20200224,101,"Europe, Middle East, and Africa"
+49,20200302,101,"Europe, Middle East, and Africa"
+47.5,20200309,101,"Europe, Middle East, and Africa"
+70,20200316,101,"Europe, Middle East, and Africa"
+92,20200323,101,"Europe, Middle East, and Africa"
+100,20200330,101,"Europe, Middle East, and Africa"
+88.5,20200406,101,"Europe, Middle East, and Africa"
+91,20200413,101,"Europe, Middle East, and Africa"
+84.5,20200420,101,"Europe, Middle East, and Africa"
+84.5,20200427,101,"Europe, Middle East, and Africa"
+72.5,20200504,101,"Europe, Middle East, and Africa"
+72,20200511,101,"Europe, Middle East, and Africa"
+77.5,20200518,101,"Europe, Middle East, and Africa"
+73.5,20200525,101,"Europe, Middle East, and Africa"
+67.5,20200601,101,"Europe, Middle East, and Africa"
+69,20200608,101,"Europe, Middle East, and Africa"
+68.5,20200615,101,"Europe, Middle East, and Africa"
+65,20200622,101,"Europe, Middle East, and Africa"
+69.5,20200629,101,"Europe, Middle East, and Africa"
+63.5,20200706,101,"Europe, Middle East, and Africa"
+64,20200713,101,"Europe, Middle East, and Africa"
+62.5,20200720,101,"Europe, Middle East, and Africa"
+60.5,20200727,101,"Europe, Middle East, and Africa"
+59.5,20200803,101,"Europe, Middle East, and Africa"
+60.5,20200810,101,"Europe, Middle East, and Africa"
+58.5,20200817,101,"Europe, Middle East, and Africa"
+57,20200824,101,"Europe, Middle East, and Africa"
+61.5,20200831,101,"Europe, Middle East, and Africa"
+61.5,20200907,101,"Europe, Middle East, and Africa"
+63.5,20200914,101,"Europe, Middle East, and Africa"
+62.5,20200921,101,"Europe, Middle East, and Africa"
+59.5,20200928,101,"Europe, Middle East, and Africa"
+59.5,20201005,101,"Europe, Middle East, and Africa"
+58.5,20201012,101,"Europe, Middle East, and Africa"
+59.5,20201019,101,"Europe, Middle East, and Africa"
+59.5,20201026,101,"Europe, Middle East, and Africa"
+51.5,20201102,101,"Europe, Middle East, and Africa"
+59.5,20201109,101,"Europe, Middle East, and Africa"
+56.5,20201116,101,"Europe, Middle East, and Africa"
+51.5,20201123,101,"Europe, Middle East, and Africa"
+53.5,20201130,101,"Europe, Middle East, and Africa"
+57.5,20201207,101,"Europe, Middle East, and Africa"
+62.5,20201214,101,"Europe, Middle East, and Africa"
+72,20201221,101,"Europe, Middle East, and Africa"
+85,20201228,101,"Europe, Middle East, and Africa"
+71,20210104,101,"Europe, Middle East, and Africa"
+73.5,20210111,101,"Europe, Middle East, and Africa"
+72.5,20210118,101,"Europe, Middle East, and Africa"
+71.5,20210125,101,"Europe, Middle East, and Africa"
+65.5,20210201,101,"Europe, Middle East, and Africa"
+64,20210208,101,"Europe, Middle East, and Africa"
+64,20210215,101,"Europe, Middle East, and Africa"
+59,20210222,101,"Europe, Middle East, and Africa"
+57,20210301,101,"Europe, Middle East, and Africa"
+57.5,20210308,101,"Europe, Middle East, and Africa"
+53.5,20210315,101,"Europe, Middle East, and Africa"
+54.5,20210322,101,"Europe, Middle East, and Africa"
+55.5,20210329,101,"Europe, Middle East, and Africa"
+60.5,20210405,101,"Europe, Middle East, and Africa"
+48.5,20210412,101,"Europe, Middle East, and Africa"
+61,20210419,101,"Europe, Middle East, and Africa"
+43,20160425,102,Latin America
+44,20160502,102,Latin America
+45,20160509,102,Latin America
+47,20160516,102,Latin America
+53,20160523,102,Latin America
+45,20160530,102,Latin America
+46,20160606,102,Latin America
+51,20160613,102,Latin America
+53,20160620,102,Latin America
+52,20160627,102,Latin America
+52,20160704,102,Latin America
+52,20160711,102,Latin America
+61,20160718,102,Latin America
+60,20160725,102,Latin America
+54,20160801,102,Latin America
+44,20160808,102,Latin America
+46,20160815,102,Latin America
+49,20160822,102,Latin America
+49,20160829,102,Latin America
+57,20160905,102,Latin America
+47,20160912,102,Latin America
+49,20160919,102,Latin America
+52,20160926,102,Latin America
+50,20161003,102,Latin America
+58,20161010,102,Latin America
+53,20161017,102,Latin America
+54,20161024,102,Latin America
+61,20161031,102,Latin America
+51,20161107,102,Latin America
+66,20161114,102,Latin America
+53,20161121,102,Latin America
+58,20161128,102,Latin America
+57,20161205,102,Latin America
+62,20161212,102,Latin America
+63,20161219,102,Latin America
+67,20161226,102,Latin America
+69,20170102,102,Latin America
+69,20170109,102,Latin America
+65,20170116,102,Latin America
+66,20170123,102,Latin America
+62,20170130,102,Latin America
+55,20170206,102,Latin America
+54,20170213,102,Latin America
+56,20170220,102,Latin America
+75,20170227,102,Latin America
+57,20170306,102,Latin America
+53,20170313,102,Latin America
+59,20170320,102,Latin America
+58,20170327,102,Latin America
+62,20170403,102,Latin America
+69,20170410,102,Latin America
+70,20170417,102,Latin America
+65,20170424,102,Latin America
+75,20170501,102,Latin America
+61,20170508,102,Latin America
+58,20170515,102,Latin America
+59,20170522,102,Latin America
+56,20170529,102,Latin America
+53,20170605,102,Latin America
+64,20170612,102,Latin America
+55,20170619,102,Latin America
+60,20170626,102,Latin America
+63,20170703,102,Latin America
+65,20170710,102,Latin America
+70,20170717,102,Latin America
+68,20170724,102,Latin America
+66,20170731,102,Latin America
+64,20170807,102,Latin America
+65,20170814,102,Latin America
+67,20170821,102,Latin America
+65,20170828,102,Latin America
+71,20170904,102,Latin America
+57,20170911,102,Latin America
+59,20170918,102,Latin America
+56,20170925,102,Latin America
+61,20171002,102,Latin America
+69,20171009,102,Latin America
+57,20171016,102,Latin America
+61,20171023,102,Latin America
+75,20171030,102,Latin America
+61,20171106,102,Latin America
+64,20171113,102,Latin America
+60,20171120,102,Latin America
+60,20171127,102,Latin America
+61,20171204,102,Latin America
+62,20171211,102,Latin America
+68,20171218,102,Latin America
+84,20171225,102,Latin America
+84,20180101,102,Latin America
+79,20180108,102,Latin America
+73,20180115,102,Latin America
+74,20180122,102,Latin America
+73,20180129,102,Latin America
+70,20180205,102,Latin America
+84,20180212,102,Latin America
+66,20180219,102,Latin America
+58,20180226,102,Latin America
+58,20180305,102,Latin America
+57,20180312,102,Latin America
+57,20180319,102,Latin America
+75,20180326,102,Latin America
+62,20180402,102,Latin America
+66,20180409,102,Latin America
+69,20180416,102,Latin America
+65,20180423,102,Latin America
+72,20180430,102,Latin America
+58,20180507,102,Latin America
+62,20180514,102,Latin America
+61,20180521,102,Latin America
+75,20180528,102,Latin America
+59,20180604,102,Latin America
+52,20180611,102,Latin America
+56,20180618,102,Latin America
+56,20180625,102,Latin America
+61,20180702,102,Latin America
+63,20180709,102,Latin America
+57,20180716,102,Latin America
+63,20180723,102,Latin America
+57,20180730,102,Latin America
+49,20180806,102,Latin America
+49,20180813,102,Latin America
+53,20180820,102,Latin America
+60,20180827,102,Latin America
+58,20180903,102,Latin America
+50,20180910,102,Latin America
+49,20180917,102,Latin America
+45,20180924,102,Latin America
+47,20181001,102,Latin America
+49,20181008,102,Latin America
+51,20181015,102,Latin America
+48,20181022,102,Latin America
+56,20181029,102,Latin America
+50,20181105,102,Latin America
+53,20181112,102,Latin America
+51,20181119,102,Latin America
+48,20181126,102,Latin America
+49,20181203,102,Latin America
+51,20181210,102,Latin America
+52,20181217,102,Latin America
+77,20181224,102,Latin America
+76,20181231,102,Latin America
+69,20190107,102,Latin America
+64,20190114,102,Latin America
+58,20190121,102,Latin America
+55,20190128,102,Latin America
+53,20190204,102,Latin America
+51,20190211,102,Latin America
+49,20190218,102,Latin America
+46,20190225,102,Latin America
+56,20190304,102,Latin America
+48,20190311,102,Latin America
+48,20190318,102,Latin America
+47,20190325,102,Latin America
+45,20190401,102,Latin America
+45,20190408,102,Latin America
+56,20190415,102,Latin America
+46,20190422,102,Latin America
+50,20190429,102,Latin America
+44,20190506,102,Latin America
+47,20190513,102,Latin America
+46,20190520,102,Latin America
+45,20190527,102,Latin America
+45,20190603,102,Latin America
+42,20190610,102,Latin America
+57,20190617,102,Latin America
+48,20190624,102,Latin America
+54,20190701,102,Latin America
+52,20190708,102,Latin America
+61,20190715,102,Latin America
+62,20190722,102,Latin America
+51,20190729,102,Latin America
+46,20190805,102,Latin America
+49,20190812,102,Latin America
+48,20190819,102,Latin America
+46,20190826,102,Latin America
+45,20190902,102,Latin America
+43,20190909,102,Latin America
+43,20190916,102,Latin America
+45,20190923,102,Latin America
+41,20190930,102,Latin America
+44,20191007,102,Latin America
+44,20191014,102,Latin America
+42,20191021,102,Latin America
+43,20191028,102,Latin America
+39,20191104,102,Latin America
+45,20191111,102,Latin America
+41,20191118,102,Latin America
+39,20191125,102,Latin America
+41,20191202,102,Latin America
+51,20191209,102,Latin America
+50,20191216,102,Latin America
+65,20191223,102,Latin America
+66,20191230,102,Latin America
+63,20200106,102,Latin America
+56,20200113,102,Latin America
+57,20200120,102,Latin America
+52,20200127,102,Latin America
+49,20200203,102,Latin America
+48,20200210,102,Latin America
+45,20200217,102,Latin America
+61,20200224,102,Latin America
+46,20200302,102,Latin America
+41,20200309,102,Latin America
+82,20200316,102,Latin America
+100,20200323,102,Latin America
+92,20200330,102,Latin America
+85,20200406,102,Latin America
+80,20200413,102,Latin America
+80,20200420,102,Latin America
+76,20200427,102,Latin America
+72,20200504,102,Latin America
+69,20200511,102,Latin America
+66,20200518,102,Latin America
+70,20200525,102,Latin America
+63,20200601,102,Latin America
+69,20200608,102,Latin America
+63,20200615,102,Latin America
+65,20200622,102,Latin America
+67,20200629,102,Latin America
+62,20200706,102,Latin America
+60,20200713,102,Latin America
+60,20200720,102,Latin America
+60,20200727,102,Latin America
+53,20200803,102,Latin America
+53,20200810,102,Latin America
+58,20200817,102,Latin America
+53,20200824,102,Latin America
+50,20200831,102,Latin America
+56,20200907,102,Latin America
+51,20200914,102,Latin America
+53,20200921,102,Latin America
+47,20200928,102,Latin America
+48,20201005,102,Latin America
+50,20201012,102,Latin America
+48,20201019,102,Latin America
+48,20201026,102,Latin America
+52,20201102,102,Latin America
+45,20201109,102,Latin America
+45,20201116,102,Latin America
+44,20201123,102,Latin America
+43,20201130,102,Latin America
+49,20201207,102,Latin America
+45,20201214,102,Latin America
+61,20201221,102,Latin America
+69,20201228,102,Latin America
+59,20210104,102,Latin America
+57,20210111,102,Latin America
+55,20210118,102,Latin America
+55,20210125,102,Latin America
+48,20210201,102,Latin America
+48,20210208,102,Latin America
+54,20210215,102,Latin America
+45,20210222,102,Latin America
+51,20210301,102,Latin America
+52,20210308,102,Latin America
+50,20210315,102,Latin America
+53,20210322,102,Latin America
+57,20210329,102,Latin America
+49,20210405,102,Latin America
+49,20210412,102,Latin America
+78,20210419,102,Latin America
+43,20160425,103,United States and Canada
+43,20160502,103,United States and Canada
+43,20160509,103,United States and Canada
+45,20160516,103,United States and Canada
+48,20160523,103,United States and Canada
+53,20160530,103,United States and Canada
+49,20160606,103,United States and Canada
+51,20160613,103,United States and Canada
+50,20160620,103,United States and Canada
+51,20160627,103,United States and Canada
+51,20160704,103,United States and Canada
+49,20160711,103,United States and Canada
+48,20160718,103,United States and Canada
+48,20160725,103,United States and Canada
+50,20160801,103,United States and Canada
+44,20160808,103,United States and Canada
+46,20160815,103,United States and Canada
+48,20160822,103,United States and Canada
+50,20160829,103,United States and Canada
+52,20160905,103,United States and Canada
+46,20160912,103,United States and Canada
+46,20160919,103,United States and Canada
+52,20160926,103,United States and Canada
+51,20161003,103,United States and Canada
+46,20161010,103,United States and Canada
+48,20161017,103,United States and Canada
+46,20161024,103,United States and Canada
+46,20161031,103,United States and Canada
+43,20161107,103,United States and Canada
+45,20161114,103,United States and Canada
+55,20161121,103,United States and Canada
+48,20161128,103,United States and Canada
+45,20161205,103,United States and Canada
+50,20161212,103,United States and Canada
+54,20161219,103,United States and Canada
+64,20161226,103,United States and Canada
+61,20170102,103,United States and Canada
+56,20170109,103,United States and Canada
+56,20170116,103,United States and Canada
+52,20170123,103,United States and Canada
+48,20170130,103,United States and Canada
+48,20170206,103,United States and Canada
+47,20170213,103,United States and Canada
+46,20170220,103,United States and Canada
+46,20170227,103,United States and Canada
+44,20170306,103,United States and Canada
+49,20170313,103,United States and Canada
+51,20170320,103,United States and Canada
+52,20170327,103,United States and Canada
+52,20170403,103,United States and Canada
+50,20170410,103,United States and Canada
+48,20170417,103,United States and Canada
+46,20170424,103,United States and Canada
+47,20170501,103,United States and Canada
+46,20170508,103,United States and Canada
+45,20170515,103,United States and Canada
+48,20170522,103,United States and Canada
+53,20170529,103,United States and Canada
+46,20170605,103,United States and Canada
+48,20170612,103,United States and Canada
+51,20170619,103,United States and Canada
+52,20170626,103,United States and Canada
+55,20170703,103,United States and Canada
+48,20170710,103,United States and Canada
+52,20170717,103,United States and Canada
+51,20170724,103,United States and Canada
+51,20170731,103,United States and Canada
+50,20170807,103,United States and Canada
+47,20170814,103,United States and Canada
+48,20170821,103,United States and Canada
+49,20170828,103,United States and Canada
+49,20170904,103,United States and Canada
+46,20170911,103,United States and Canada
+48,20170918,103,United States and Canada
+47,20170925,103,United States and Canada
+48,20171002,103,United States and Canada
+49,20171009,103,United States and Canada
+49,20171016,103,United States and Canada
+52,20171023,103,United States and Canada
+52,20171030,103,United States and Canada
+49,20171106,103,United States and Canada
+49,20171113,103,United States and Canada
+59,20171120,103,United States and Canada
+49,20171127,103,United States and Canada
+55,20171204,103,United States and Canada
+52,20171211,103,United States and Canada
+58,20171218,103,United States and Canada
+72,20171225,103,United States and Canada
+71,20180101,103,United States and Canada
+57,20180108,103,United States and Canada
+59,20180115,103,United States and Canada
+55,20180122,103,United States and Canada
+55,20180129,103,United States and Canada
+51,20180205,103,United States and Canada
+51,20180212,103,United States and Canada
+52,20180219,103,United States and Canada
+52,20180226,103,United States and Canada
+54,20180305,103,United States and Canada
+52,20180312,103,United States and Canada
+50,20180319,103,United States and Canada
+54,20180326,103,United States and Canada
+53,20180402,103,United States and Canada
+50,20180409,103,United States and Canada
+50,20180416,103,United States and Canada
+47,20180423,103,United States and Canada
+47,20180430,103,United States and Canada
+48,20180507,103,United States and Canada
+52,20180514,103,United States and Canada
+55,20180521,103,United States and Canada
+57,20180528,103,United States and Canada
+50,20180604,103,United States and Canada
+55,20180611,103,United States and Canada
+54,20180618,103,United States and Canada
+51,20180625,103,United States and Canada
+55,20180702,103,United States and Canada
+50,20180709,103,United States and Canada
+51,20180716,103,United States and Canada
+52,20180723,103,United States and Canada
+55,20180730,103,United States and Canada
+52,20180806,103,United States and Canada
+53,20180813,103,United States and Canada
+51,20180820,103,United States and Canada
+52,20180827,103,United States and Canada
+51,20180903,103,United States and Canada
+49,20180910,103,United States and Canada
+48,20180917,103,United States and Canada
+49,20180924,103,United States and Canada
+48,20181001,103,United States and Canada
+50,20181008,103,United States and Canada
+52,20181015,103,United States and Canada
+54,20181022,103,United States and Canada
+54,20181029,103,United States and Canada
+47,20181105,103,United States and Canada
+47,20181112,103,United States and Canada
+55,20181119,103,United States and Canada
+49,20181126,103,United States and Canada
+53,20181203,103,United States and Canada
+52,20181210,103,United States and Canada
+60,20181217,103,United States and Canada
+100,20181224,103,United States and Canada
+87,20181231,103,United States and Canada
+69,20190107,103,United States and Canada
+75,20190114,103,United States and Canada
+69,20190121,103,United States and Canada
+65,20190128,103,United States and Canada
+56,20190204,103,United States and Canada
+56,20190211,103,United States and Canada
+56,20190218,103,United States and Canada
+51,20190225,103,United States and Canada
+52,20190304,103,United States and Canada
+51,20190311,103,United States and Canada
+52,20190318,103,United States and Canada
+50,20190325,103,United States and Canada
+54,20190401,103,United States and Canada
+50,20190408,103,United States and Canada
+51,20190415,103,United States and Canada
+50,20190422,103,United States and Canada
+51,20190429,103,United States and Canada
+50,20190506,103,United States and Canada
+51,20190513,103,United States and Canada
+54,20190520,103,United States and Canada
+60,20190527,103,United States and Canada
+56,20190603,103,United States and Canada
+54,20190610,103,United States and Canada
+57,20190617,103,United States and Canada
+55,20190624,103,United States and Canada
+57,20190701,103,United States and Canada
+55,20190708,103,United States and Canada
+56,20190715,103,United States and Canada
+55,20190722,103,United States and Canada
+55,20190729,103,United States and Canada
+51,20190805,103,United States and Canada
+50,20190812,103,United States and Canada
+52,20190819,103,United States and Canada
+53,20190826,103,United States and Canada
+53,20190902,103,United States and Canada
+47,20190909,103,United States and Canada
+51,20190916,103,United States and Canada
+50,20190923,103,United States and Canada
+49,20190930,103,United States and Canada
+53,20191007,103,United States and Canada
+49,20191014,103,United States and Canada
+52,20191021,103,United States and Canada
+53,20191028,103,United States and Canada
+52,20191104,103,United States and Canada
+52,20191111,103,United States and Canada
+49,20191118,103,United States and Canada
+56,20191125,103,United States and Canada
+48,20191202,103,United States and Canada
+48,20191209,103,United States and Canada
+55,20191216,103,United States and Canada
+71,20191223,103,United States and Canada
+85,20191230,103,United States and Canada
+66,20200106,103,United States and Canada
+61,20200113,103,United States and Canada
+64,20200120,103,United States and Canada
+54,20200127,103,United States and Canada
+54,20200203,103,United States and Canada
+54,20200210,103,United States and Canada
+53,20200217,103,United States and Canada
+54,20200224,103,United States and Canada
+52,20200302,103,United States and Canada
+55,20200309,103,United States and Canada
+85,20200316,103,United States and Canada
+96,20200323,103,United States and Canada
+91,20200330,103,United States and Canada
+83,20200406,103,United States and Canada
+81,20200413,103,United States and Canada
+89,20200420,103,United States and Canada
+78,20200427,103,United States and Canada
+76,20200504,103,United States and Canada
+72,20200511,103,United States and Canada
+67,20200518,103,United States and Canada
+69,20200525,103,United States and Canada
+58,20200601,103,United States and Canada
+65,20200608,103,United States and Canada
+60,20200615,103,United States and Canada
+63,20200622,103,United States and Canada
+68,20200629,103,United States and Canada
+65,20200706,103,United States and Canada
+64,20200713,103,United States and Canada
+62,20200720,103,United States and Canada
+60,20200727,103,United States and Canada
+62,20200803,103,United States and Canada
+59,20200810,103,United States and Canada
+63,20200817,103,United States and Canada
+57,20200824,103,United States and Canada
+60,20200831,103,United States and Canada
+74,20200907,103,United States and Canada
+76,20200914,103,United States and Canada
+64,20200921,103,United States and Canada
+59,20200928,103,United States and Canada
+58,20201005,103,United States and Canada
+55,20201012,103,United States and Canada
+57,20201019,103,United States and Canada
+62,20201026,103,United States and Canada
+44,20201102,103,United States and Canada
+53,20201109,103,United States and Canada
+54,20201116,103,United States and Canada
+64,20201123,103,United States and Canada
+59,20201130,103,United States and Canada
+60,20201207,103,United States and Canada
+60,20201214,103,United States and Canada
+69,20201221,103,United States and Canada
+78,20201228,103,United States and Canada
+61,20210104,103,United States and Canada
+59,20210111,103,United States and Canada
+67,20210118,103,United States and Canada
+61,20210125,103,United States and Canada
+61,20210201,103,United States and Canada
+55,20210208,103,United States and Canada
+61,20210215,103,United States and Canada
+56,20210222,103,United States and Canada
+53,20210301,103,United States and Canada
+48,20210308,103,United States and Canada
+47,20210315,103,United States and Canada
+46,20210322,103,United States and Canada
+47,20210329,103,United States and Canada
+46,20210405,103,United States and Canada
+45,20210412,103,United States and Canada
+57,20210419,103,United States and Canada
